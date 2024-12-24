@@ -31,8 +31,8 @@ cd Retinal-vessel-segmentation
 ### 2. 安装依赖
 建议创建虚拟环境后安装依赖：
 ```bash
-python -m venv venv
-venv\Scripts\activate  # 激活虚拟环境
+python -m venv .venv
+.\.venv\\Scripts\activate  # 激活虚拟环境
 pip install -r requirements.txt
 ```
 
